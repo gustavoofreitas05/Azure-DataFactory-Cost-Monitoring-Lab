@@ -94,7 +94,10 @@ Automatizar deploys com scripts mais avançados
 Explorar integração com outras ferramentas do Azure
 
 📷 Evidências do Projeto
-
+IMAGEM1.png
+IMAGEM2.png
+IMAGEM3.png
+IMAGEM4.png
 
 
 🔗 Autor
